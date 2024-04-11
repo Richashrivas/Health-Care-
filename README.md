@@ -5,18 +5,18 @@ The healthcare app is a frontend application developed using React.js and Redux,
 
 The doctor panel serves as a platform for doctors or medical practitioners to manage patient records, appointments, and receptions.
 Key features may include:
-# Viewing and updating patient information
-# Reception List
-# Save Reception records and histories
-# updating Reception information
+1. Viewing and updating patient information
+2. Reception List
+3. Save Reception records and histories
+4. updating Reception information
 
 2. Reception Panel:
 
 The reception panel is designed for receptionists to handle tasks related to patient management and appointment scheduling.
 Key functionalities may include:
-# Managing appointment schedules
-# View All Appointment
-# Updating patient records
+1. Managing appointment schedules
+2. View All Appointment
+3. Updating patient records
 
 
 
